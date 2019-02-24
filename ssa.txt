@@ -1,5 +1,2 @@
 initialized 
 double
-triple
-fourth challenge
-fifth challenge
